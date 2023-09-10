@@ -1,0 +1,15 @@
+pwd (present working directory) - shows the current folder we are working on
+cd <folderName / path to folder> - (change directory) change the current folder/directory we are currently working on
+cd .. - change directory one folder up
+mkdir <folderName> - creates a new directory/folder
+
+you can use CTRL+SHIFT+V to paste the codes according to the alignment
+
+git config --global user.email ""
+git config --global user.name ""
+git init
+git status
+git add .
+git commit -m "add fcb portfolio"
+
+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 <---github token
